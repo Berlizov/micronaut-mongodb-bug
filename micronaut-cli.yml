@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-mongodb, http-client-test, java, java-application, junit, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, micronaut-test-rest-assured, mongo-sync, netty-server, properties, readme, serialization-jackson, shade, static-resources, test-resources, testcontainers]
